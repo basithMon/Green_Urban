@@ -106,3 +106,8 @@ body {
 .card:hover .card-body{
     display: flex;
 }
+.card-title{
+    font-size: 35px; 
+    font-weight: 500;  
+    padding-bottom: 30px;
+}
